@@ -1,13 +1,8 @@
-/*!
-Theme Name: Starter
-Text Domain: starter
-Version: 0.1.0
-*/
-
 // Variables
 @import "base/variables";
 
 // Mixins
+@import "mixins/grid";
 @import "mixins/media";
 @import "mixins/transition";
 @import "mixins/utility";
